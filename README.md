@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ivan!
 
-👩‍💻 I am junior frontend developer
+👩‍💻 I am frontend developer
 💼 HTML / CSS/ JS / REACT
 
 🌱 I’m currently learning Node.js
